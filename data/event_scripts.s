@@ -1360,3 +1360,15 @@ Text_TestMsg::
 	.include "data/text/save.inc"
 	.include "data/text/new_game_intro.inc"
 	.include "data/text/pokedude.inc"
+
+	.include "data/maps/SixIsland_AlteringCave_Ruby1/scripts.inc"
+	.include "data/maps/SixIsland_AlteringCave_Ruby1/text.inc"
+
+	.include "data/maps/SixIsland_AlteringCave_Ruby2/scripts.inc"
+	.include "data/maps/SixIsland_AlteringCave_Ruby2/text.inc"
+
+	.include "data/maps/SixIsland_AlteringCave_Sapphire1/scripts.inc"
+	.include "data/maps/SixIsland_AlteringCave_Sapphire1/text.inc"
+
+	.include "data/maps/SixIsland_AlteringCave_Sapphire2/scripts.inc"
+	.include "data/maps/SixIsland_AlteringCave_Sapphire2/text.inc"

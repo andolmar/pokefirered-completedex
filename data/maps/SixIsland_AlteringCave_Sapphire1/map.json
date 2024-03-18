@@ -1,7 +1,7 @@
 {
-  "id": "MAP_SIX_ISLAND_ALTERING_CAVE",
-  "name": "SixIsland_AlteringCave",
-  "layout": "LAYOUT_SIX_ISLAND_ALTERING_CAVE",
+  "id": "MAP_SIX_ISLAND_ALTERING_CAVE_SAPPHIRE1",
+  "name": "SixIsland_AlteringCave_Sapphire1",
+  "layout": "LAYOUT_SIX_ISLAND_ALTERING_CAVE_SAPPHIRE1",
   "music": "MUS_SEVII_CAVE",
   "region_map_section": "MAPSEC_ALTERING_CAVE",
   "requires_flash": false,
@@ -18,13 +18,7 @@
 
   ],
   "warp_events": [
-    {
-      "x": 18,
-      "y": 22,
-      "elevation": 3,
-      "dest_map": "MAP_SIX_ISLAND_OUTCAST_ISLAND",
-      "dest_warp_id": "0"
-    }
+
   ],
   "coord_events": [
 
