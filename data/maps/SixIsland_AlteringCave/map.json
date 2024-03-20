@@ -46,8 +46,8 @@
     {
       "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_ROCK_SMASH_ROCK",
-      "x": 10,
-      "y": 6,
+      "x": 17,
+      "y": 11,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
@@ -78,6 +78,27 @@
       "y": 22,
       "elevation": 3,
       "dest_map": "MAP_SIX_ISLAND_OUTCAST_ISLAND",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_ALTERING_CAVE_RUBY1",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_ALTERING_CAVE_SAPPHIRE1",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 28,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_ALTERING_CAVE",
       "dest_warp_id": "0"
     }
   ],
